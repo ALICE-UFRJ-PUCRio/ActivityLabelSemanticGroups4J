@@ -7,7 +7,9 @@ To Run the code you must have installed:
 JavaSE-1.7
 
 *** Instructions for running via command line ***
+
 Execute the following command:
+
 java -jar alsg.jar [Directory Path] [Level] [MinThreshold]
 
 Example: java -jar alsg.jar /home/user/myAnalysis 2 0.25
