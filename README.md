@@ -18,7 +18,7 @@ Some explanations:
 - After running the results will be saved in a filled named output.txt
 - Both labels.txt and output.txt will be created in the specified [Directory Path]
 
-[Level] is an Integer value which specifies how many upper levels in Wordnet`s tree will be searched. The higher the value, the most abstract senses will be considered to match label`s words.
+[Level] is an Integer value which specifies how many upper levels in Wordnet tree will be searched. The higher the value, the most abstract senses will be considered to match labels words.
 
 [MinThreshold] is a Double value which limits the similarity value to be considered as minimum when matching similar activity labels.
 
